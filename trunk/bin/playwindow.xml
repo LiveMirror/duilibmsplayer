@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window size="1024,768" sizebox="5,5,5,5" roundcorner="5,5">
+    <VerticalLayout bkcolor="#FF000000">
+        <HorizontalLayout height="50" bkcolor="#FF000000" inset="10,3,3,0">
+            <Control />
+            <Button name="btnClose" tooltip="关闭" width="46" height="46" bkimage="close.png" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="file=&apos;close.png&apos; fade=&apos;200&apos;" hotimage="close.png" pushedimage="file=&apos;close.png&apos; fade=&apos;200&apos;" />
+        </HorizontalLayout>
+        <HorizontalLayout>
+            <ActiveX name="wmplayer" clsid="{6BF52A52-394A-11D3-B153-00C04F79FAA6}" delaycreate="false" />
+        </HorizontalLayout>
+    </VerticalLayout>
+</Window>
