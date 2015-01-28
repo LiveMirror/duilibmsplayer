@@ -1,0 +1,17 @@
+﻿生成启动时间为 2015/1/28 23:06:54。
+     1>项目“F:\c++\duilibMsplayer\duilibMsplayer.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Iinclude /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\duilibMsplayer.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt duilibMsplayerDlg.cpp
+         duilibMsplayerDlg.cpp
+       Link:
+         D:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"bin/duilibMsplayer.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"bin/duilibMsplayer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"bin/duilibMsplayer.lib" /MACHINE:X86 Debug\duilibMsplayer.res
+         Debug\duilibMsplayer.obj
+         Debug\duilibMsplayerDlg.obj
+         Debug\PlayFrameWnd.obj
+         Debug\stdafx.obj
+         duilibMsplayer.vcxproj -> F:\c++\duilibMsplayer\bin/duilibMsplayer.exe
+     1>已完成生成项目“F:\c++\duilibMsplayer\duilibMsplayer.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.14
